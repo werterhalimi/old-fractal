@@ -6,13 +6,13 @@
 /*   By: shalimi <marvin@42lausanne.ch>             +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/27 23:09:20 by shalimi           #+#    #+#             */
-/*   Updated: 2022/10/30 22:04:50 by shalimi          ###   ########.fr       */
+/*   Updated: 2022/10/31 03:15:41 by shalimi          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef FRACTOL_H
 # define FRACTOL_H
-# define M "mandelbot"
+# define M "mandelbrot"
 # define J "julia"
 # define B "burningship"
 # include "mlx.h"
